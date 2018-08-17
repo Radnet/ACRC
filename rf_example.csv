@@ -1,0 +1,13 @@
+head,body,color,churn
+square,rectangular,white,1
+square,rectangular,white,1
+square,rectangular,white,1
+circle,circle,black,1
+square,circle,white,0
+circle,circle,white,1
+square,rectangular,white,1
+square,rectangular,white,1
+circle,rectangular,black,0
+square,circle,white,0
+square,circle,white,0
+square,circle,white,0
